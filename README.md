@@ -57,7 +57,8 @@ This is the process of cleaning data in readiness for analysis and it involves t
 
 2. Count Plot for movie distribution by genre.
 
-   ![image](https://github.com/user-attachments/assets/5bebdc2a-9e55-4138-8767-c7721c594884)
+   ![image](https://github.com/user-attachments/assets/bce9d321-3804-4325-b0ff-ac9a0475ee2f)
+
 
 ## 5.2 Findings
 
@@ -71,7 +72,8 @@ The metrics of comparison were mean squared error(MSE) and mean absolute error (
 
 2. Receiver Operating Characteristic (ROC) Curve, Area under the Curve (AUC) visual. This shows performance of the model in terms of accuracy.
 
-   ![image](https://github.com/user-attachments/assets/c927e0dc-0d69-431b-9c56-1e4f19da1e92)
+   ![image](https://github.com/user-attachments/assets/138a099c-e301-49a0-a944-20f65d011a7c)
+
 
 ## 5.3 Use Case
 * Clone this repository:
