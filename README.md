@@ -89,7 +89,7 @@ The metrics of comparison were mean squared error(MSE) and mean absolute error (
 
 Best recommendtion system model for deployment is **Matrix Factorization with Singular Value Decomposistion(SVD)** by the movie shop. 
 
-Model performance with an AUC (Area Under the Curve) = 0.97 indicates that the model highly distinguishes between relevant and irrelevant recommendations, which translates to higher precision and higher recall. The model ranks the relevant movies higher in the list, ensuring that the user gets personalized and accurate recommendations.
+Model performance with an AUC (Area Under the Curve) = 0.99 indicates that the model highly distinguishes between relevant and irrelevant recommendations, which translates to higher precision and higher recall. The model ranks the relevant movies higher in the list, ensuring that the user gets personalized and accurate recommendations.
 
 This ensures that;
 * It best recommends movies based on what customers have done, liked, or searched (personalized recommendations).
